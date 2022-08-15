@@ -297,12 +297,10 @@ background: #141414;
     .main__content p {
         margin-top: 1rem;
         font-size: 1.5rem;
-        border: 2px solid red;
     }
     #main__img {
         height: 75%;
         width: 75%;
-        border: 2px solid red;
 }
 
 
@@ -322,11 +320,9 @@ background: #141414;
     .main__btn {
         padding: 12px 36px;
         margin: 2.5rem 0;
-        border: 2px solid red;
     }
     #main__img {
         height: 89%;
         width: 90%;
-        border: 2px solid red;
 }
 }
